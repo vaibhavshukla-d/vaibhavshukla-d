@@ -60,19 +60,6 @@ At Craft Silicon, I worked on backend architecture for financial platforms—**L
 AMC Engineering College, Bangalore
 *Aug 2018 – Jul 2022*
 
----
-
-## 💫 About Me
-
-Developing high-performance APIs using Spring Boot for fintech applications, focusing on loan management systems and banking integrations.
-Projects that involve backend development with Spring Boot, multithreading, and API integration in the BFSI sector.
-Enhancing real-time data processing and implementing advanced scheduling mechanisms in Spring Boot applications.
-Advanced Java concepts and React to improve full-stack development skills, focusing on fintech solutions.
-Optimizing transaction processing in fintech systems or integrating third-party services for financial applications.
-I transitioned from SQL Server script jobs to Spring Boot scheduling with multithreading in just a few days, significantly boosting system performance!
-
----
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/vaibhav-shukla-b20b451b9)
